@@ -39,3 +39,17 @@
 
 # debug information files
 *.dwo
+
+/.vs
+/Binaries
+/Intermediate
+/Saved
+/DerivedDataCache
+/SteamingCache
+/Content/Developers
+/Content/Collections
+/Content/CesiumSettings
+.vsconfig
+*.sln
+*.log
+*.txt
